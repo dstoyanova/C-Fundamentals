@@ -7,9 +7,27 @@
 //
 
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#include "Exercise-1.h"
+#include "Exercise-2.h"
+#include "Exercise-3.h"
+#include "Exercise-4.h"
+#include "Exercise-5.h"
+#include "Exercise-6.h"
+#include "Exercise-7.h"
+#include "Exercise-8.h"
+#include "Exercise-9.h"
+#include "Exercise-10.h"
+#include "Exercise-12.h"
+#include "Exercise-11.h"
+#include "Exercise-13.h"
+#include "Exercise-16.h"
+#include "Exercise-17.h"
+#include "Exercise-11.h"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+    
     return 0;
 }

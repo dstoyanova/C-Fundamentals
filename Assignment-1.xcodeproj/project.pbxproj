@@ -23,8 +23,23 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AD033BC91B9B045F00C58009 /* Exercise-2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-2.h"; sourceTree = "<group>"; };
+		AD033BCA1B9B088B00C58009 /* Exercise-3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-3.h"; sourceTree = "<group>"; };
+		AD033BCB1B9B14D300C58009 /* Exercise-4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-4.h"; sourceTree = "<group>"; };
+		AD033BCC1B9B17C200C58009 /* Exercise-5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-5.h"; sourceTree = "<group>"; };
+		AD033BCD1B9B1B9300C58009 /* Exercise-7.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-7.h"; sourceTree = "<group>"; };
+		AD033BCE1B9B1BDB00C58009 /* Exercise-6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-6.h"; sourceTree = "<group>"; };
+		AD033BCF1B9B1E9300C58009 /* Exercise-8.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-8.h"; sourceTree = "<group>"; };
+		AD0821231B9B6C9000DE30BF /* Exercise-16.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-16.h"; sourceTree = "<group>"; };
+		AD0EA5E71B9B3E6500B9F9F8 /* Exercise-9.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-9.h"; sourceTree = "<group>"; };
+		AD0EA5E81B9B569F00B9F9F8 /* Exercise-10.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-10.h"; sourceTree = "<group>"; };
+		AD0EA5E91B9B57F600B9F9F8 /* Exercise-12.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-12.h"; sourceTree = "<group>"; };
+		AD0EA5EA1B9B5F1600B9F9F8 /* Exercise-13.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-13.h"; sourceTree = "<group>"; };
 		AD23B78F1B9AE8B500466437 /* Assignment-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Assignment-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD23B7921B9AE8B500466437 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		AD23B7991B9AF21B00466437 /* Exercise-1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-1.h"; sourceTree = "<group>"; };
+		AD7250FE1B9C535400B0AAFC /* Exercise-17.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-17.h"; sourceTree = "<group>"; };
+		AD7250FF1B9C600300B0AAFC /* Exercise-11.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Exercise-11.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +73,21 @@
 			isa = PBXGroup;
 			children = (
 				AD23B7921B9AE8B500466437 /* main.c */,
+				AD23B7991B9AF21B00466437 /* Exercise-1.h */,
+				AD033BC91B9B045F00C58009 /* Exercise-2.h */,
+				AD033BCA1B9B088B00C58009 /* Exercise-3.h */,
+				AD033BCB1B9B14D300C58009 /* Exercise-4.h */,
+				AD033BCC1B9B17C200C58009 /* Exercise-5.h */,
+				AD033BCE1B9B1BDB00C58009 /* Exercise-6.h */,
+				AD033BCD1B9B1B9300C58009 /* Exercise-7.h */,
+				AD033BCF1B9B1E9300C58009 /* Exercise-8.h */,
+				AD0EA5E71B9B3E6500B9F9F8 /* Exercise-9.h */,
+				AD0EA5E81B9B569F00B9F9F8 /* Exercise-10.h */,
+				AD7250FF1B9C600300B0AAFC /* Exercise-11.h */,
+				AD0EA5E91B9B57F600B9F9F8 /* Exercise-12.h */,
+				AD0EA5EA1B9B5F1600B9F9F8 /* Exercise-13.h */,
+				AD0821231B9B6C9000DE30BF /* Exercise-16.h */,
+				AD7250FE1B9C535400B0AAFC /* Exercise-17.h */,
 			);
 			path = "Assignment-1";
 			sourceTree = "<group>";
@@ -235,6 +265,7 @@
 				AD23B7981B9AE8B500466437 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
